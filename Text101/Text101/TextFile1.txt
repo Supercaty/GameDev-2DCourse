@@ -1,0 +1,9 @@
+En tant que maître aventurier, aucune quête ne vous résiste. 
+Vous avez tant confiance en vous que lorsque vous avez entendu le roi relater l'histoire du vol, il y a des centaines d'années, du sceptre de la création, par un immense dragon. 
+Vous vous êtes directement mis en route vers cette mystérieuse montagne à la sinistre réputation et ses caves que l'on dit remplies de trésors, et de dangers....
+
+En arrivant devant l'entrée de la grotte, un immense portail fait d'or et de pierres précieuses vous accueille. La zone ne semble cependant pas avoir été fréquentée depuis fort longtemps.
+
+Que souhaitez-vous faire : 
+1. Tenter de rentrer par la grande porte.
+2.  Chercher une autre entrée plus discrète.
