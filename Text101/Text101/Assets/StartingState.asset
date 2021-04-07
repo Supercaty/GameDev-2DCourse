@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 634592377bca66b468e1cc520922b668, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "En tant que ma\xEEtre aventurier, aucune qu\xEAte ne vous r\xE9siste.
+    \r\nVous avez tant confiance en vous que lorsque vous avez entendu le roi relater
+    l'histoire du vol, il y a des centaines d'ann\xE9es, du sceptre de la cr\xE9ation,
+    par un immense dragon. \r\nVous vous \xEAtes directement mis en route vers cette
+    myst\xE9rieuse montagne \xE0 la sinistre r\xE9putation et ses caves que l'on
+    dit remplies de tr\xE9sors, et de dangers....\r\n\r\nEn arrivant devant l'entr\xE9e
+    de la grotte, un immense portail fait d'or et de pierres pr\xE9cieuses vous accueil.
+    La zone ne semble cependant pas avoir \xE9t\xE9 fr\xE9quent\xE9e depuis fort
+    longtemps.\r\n\r\nQue souhaitez-vous faire : \r\n1. Tenter de rentrer par la
+    grande porte.\r\n2.  Chercher une autre entr\xE9e plus discr\xE8te."
+  nextStates:
+  - {fileID: 11400000, guid: d1d929048ce21a5438eb2c0382a7626a, type: 2}
+  - {fileID: 11400000, guid: 5dcfc9f24dcbac940a71c7255d4f423f, type: 2}
